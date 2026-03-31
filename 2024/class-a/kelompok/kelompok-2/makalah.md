@@ -3,8 +3,8 @@
 
 Disusun oleh :
 Kelompok 2
-1. Wulan
-2. Hazimah Azzah
+1. Wulan Okta Rahmadani (12402051030005)
+2. Hazimah Azzah Putrimadita (12402051030043)
 3. Rizky Setianingrum (12402051050110)
 ## BAB 1 Pendahuluan
 **1. Latar Belakang**
