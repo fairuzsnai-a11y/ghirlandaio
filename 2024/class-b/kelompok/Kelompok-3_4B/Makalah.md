@@ -57,8 +57,10 @@ semoga makalah ini dapat memberikan manfaat bagi para pembaca.
 * [1.1 Latar Belakang](#11-latar-belakang)
 * [1.2 Rumusan Masalah](#12-rumusan-masalah)
 * [1.3 Tujuan Penulisan](#13-tujuan-penulisan)
-* [1.4 Manfaat](#manfaat)
-
+* [1.4 Manfaat](#14-manfaat)
+* [PEMBAHASAN](#pembahasan)
+* [KATA PENGANTAR](#kata-pengantar)
+* [2.1](#21)
 
 <div align="center">
   <h1>BAB I</h1>
@@ -101,6 +103,7 @@ Adapun tujuan penulisan makalah ini adalah:
   <h1>PEMBAHASAN</h1>
 </div>
 
+<a name="21"></a>
 ## 2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
